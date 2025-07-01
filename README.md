@@ -84,8 +84,21 @@ Congratulations\! You've completed a basic R tutorial for biologists. Here are s
   * **Work with your own data:** Try importing your own biological datasets (e.g., `.csv`, `.tsv` files) into R and applying what you've learned.
   * **Learn about functions:** How to write your own reusable code blocks.
 
+## 📚 Inspiration & Further Resources
+
+This tutorial is designed to provide a foundational introduction to R for biology students. It draws inspiration from various excellent resources available online. If you're looking for more in-depth learning, consider exploring:
+
+  * [Official R Documentation](https://cran.r-project.org/manuals.html)
+  * [R for Data Science by Hadley Wickham & Garrett Grolemund](https://r4ds.had.co.nz/) - A comprehensive guide to data science with R.
+  * [Introduction to R for Biologists (Melbourne Bioinformatics)](https://melbournebioinformatics.github.io/r-intro-biologists/intro_r_biologists.html) - Includes a [PDF version](https://raw.githubusercontent.com/melbournebioinformatics/r-intro-biologists/master/intro_r_biologists.pdf).
+  * [R for Biologists Website](https://www.rforbiologists.org/) - A dedicated resource for biologists using R.
+
+We aim to provide a hands-on, practical approach, building upon the core concepts found in these foundational materials.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
+```
+```
 -----

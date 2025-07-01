@@ -87,6 +87,3 @@ Congratulations\! You've completed a basic R tutorial for biologists. Here are s
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
-
-```
-```

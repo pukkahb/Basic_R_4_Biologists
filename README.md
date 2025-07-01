@@ -28,7 +28,7 @@ Before you begin, make sure you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone ([https://github.com/your-username/your-repo-name.git](https://github.com/pukkahb/R-for-Biology-Beginners-Tutorial.git))
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/pukkahb/R-for-Biology-Beginners-Tutorial.git)
 cd R-for-Biology-Beginners-Tutorial
 ````
 
